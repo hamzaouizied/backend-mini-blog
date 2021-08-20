@@ -33,6 +33,3 @@ docker-compose run composer install
 
 ```
 docker-composer run php php artisan migrate
-
-## Email heitz queue
-
